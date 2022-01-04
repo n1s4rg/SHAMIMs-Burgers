@@ -1,0 +1,7 @@
+C:\Users\Sami\source\repos\Project Step 2\Project Step 1\bin\Debug\Project Step 1.exe.config
+C:\Users\Sami\source\repos\Project Step 2\Project Step 1\bin\Debug\Project Step 1.exe
+C:\Users\Sami\source\repos\Project Step 2\Project Step 1\bin\Debug\Project Step 1.pdb
+C:\Users\Sami\source\repos\Project Step 2\Project Step 1\obj\Debug\Project Step 3.csproj.AssemblyReference.cache
+C:\Users\Sami\source\repos\Project Step 2\Project Step 1\obj\Debug\Project Step 3.csproj.CoreCompileInputs.cache
+C:\Users\Sami\source\repos\Project Step 2\Project Step 1\obj\Debug\Project Step 1.exe
+C:\Users\Sami\source\repos\Project Step 2\Project Step 1\obj\Debug\Project Step 1.pdb
